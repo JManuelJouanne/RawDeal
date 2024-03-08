@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+eAJbaXf+7yV7J0JaUgJz5rmG7qk42S1oEZiYkmsG6a/1ywbHkQ1Gv7dJ3TM4QV6WBEjhkF5YNnoblH2ZXuyA==",
+  "success": true,
+  "projectFilePath": "/Users/manueljouanneguzman/Desktop/DDS/RawDeal/RawDealView/RawDealView.csproj",
+  "expectedPackageFiles": [
+    "/Users/manueljouanneguzman/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/manueljouanneguzman/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
